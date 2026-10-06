@@ -1,26 +1,26 @@
 # About
 
-I’m a **Principal Software Engineer** in New York City with **12+ years** building and operating large-scale distributed systems and cloud-native platforms across **AWS, GCP, and Azure**.  
-My focus is on architecting infrastructure platforms and automation frameworks that improve developer productivity, ensure reliability, and scale to enterprise demands.  
-I bring deep expertise in **AI/ML**, integrating AI-driven automation and robust MLOps to accelerate innovation at organizational scale.
+I’m a Staff Software Engineer with 14+ years of experience building and evolving large-scale software systems, infrastructure platforms, developer products, and applied AI systems. My work spans distributed systems, cloud infrastructure, platform engineering, SRE, and agentic AI.
+
+I set technical direction for complex initiatives, define architecture and execution strategy, and stay hands-on through implementation, testing, production rollout, and operations. Recent work includes infrastructure capacity modeling, internal developer platforms, and orchestration systems for AI coding agents.
+
+I also work on technical consulting and startup GTM advisory, helping teams make architecture and platform decisions, prepare products for enterprise adoption, shape technical positioning, and connect engineering capabilities with customer and market needs.
 
 ---
 
-# Career Focus
+# What I work on
 
-- **Platform Engineering** — architecting and operating multi-cloud landing zones, enterprise-grade Kubernetes platforms, developer portals, and GitOps-driven workflows at scale.  
-- **Cloud-Native Infrastructure** — extensive experience with AWS, GCP, and Azure; led organizational migrations of 200+ services across 2,000+ Kubernetes nodes, establishing standardized infrastructure patterns.  
-- **Distributed Systems** — designing and scaling data pipelines, observability platforms, and developer productivity solutions for organization-wide adoption.  
+My work centers on AI systems, distributed systems, SRE, and platform engineering. I build LLM applications, coding-agent and multi-agent workflows, and production AI systems with a focus on orchestration, evaluation, tool use, retrieval, and reliability. On the infrastructure side, I work on large-scale systems where scalability, resilience, observability, capacity planning, performance, and operational efficiency matter.
 
-*(For a detailed work history, see my [Resume](https://iliazlobin.com/resume/) page.)*
+I also focus on technical strategy and architecture, including platform modernization, cloud foundations, developer platforms, automation, and self-service infrastructure. Alongside engineering, I provide technical consulting and GTM advisory, helping teams with architecture, enterprise readiness, solution design, customer discovery, and technical positioning. I also work with engineers on technical leadership, career development, and professional growth, including architecture guidance, skill development, interview preparation, and navigating Staff+ engineering paths.
 
 ---
 
 # Professional Interests
 
-- **AI & ML Platform Engineering** — architecting scalable training and inference pipelines, agent-based frameworks, GPU-accelerated clusters, and end-to-end orchestration for applied machine learning solutions.  
-- **Developer Experience & Productivity** — enabling streamlined development workflows through golden paths, ephemeral environments, and robust self-service platforms that optimize velocity while maintaining governance.  
-- **Site Reliability Engineering** — implementing resilient architectures with multi-region disaster recovery, cost optimization strategies, and observability-driven operations to ensure system reliability and performance.  
+I’m particularly interested in AI and LLM research, including foundation models, reinforcement learning, agent training environments, evaluation, inference, and model serving. I also follow developments in physical AI, robotics, and world models—systems that learn representations of environments, reason about dynamics, and use those models for planning and interaction.
+
+Beyond the models themselves, I’m interested in the infrastructure and economics behind AI: accelerators, model hosting, inference systems, AI data centers, power and cooling, networking, semiconductor supply chains, and the economics of large-scale compute. I enjoy understanding how advances across hardware, infrastructure, and model architecture shape what becomes technically and economically possible.
 
 ---
 
